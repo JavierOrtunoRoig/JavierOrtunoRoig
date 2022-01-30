@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: javiortunoroig@gmail.com
 
-<div>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=JavierOrtunoRoig&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img style="margin-bottom: 20px" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=JavierOrtunoRoig&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierortunoroig&layout=compact&langs_count=7&theme=dracula"/>
   </a>
