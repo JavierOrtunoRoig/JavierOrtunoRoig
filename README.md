@@ -20,9 +20,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: javiortunoroig@gmail.com
 
 <div>
-<img height="172em" align="center" src="https://github-readme-stats.vercel.app/api?username=JavierOrtunoRoig&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="172em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierOrtunoRoig&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=JavierOrtunoRoig&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierortunoroig&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
