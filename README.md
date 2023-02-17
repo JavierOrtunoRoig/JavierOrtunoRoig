@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying on UMA
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working in Ericsson as Front-end software developer
+- 🌱 I’m currently learning Svelte
 - 📫 How to reach me: javiortunoroig@gmail.com
 
 <div align="center">
